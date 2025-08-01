@@ -1,0 +1,13 @@
+CalendarTable = 
+ADDCOLUMNS (
+    CALENDAR (DATE(2020, 1, 1), DATE(2025, 12, 31)), // Adjust the date range as needed
+    "Year", YEAR([Date]),
+    "Month", FORMAT([Date], "MMMM"),
+    "Month Number", MONTH([Date]),
+    "Quarter", "Q" & QUARTER([Date]),
+    "Day", DAY([Date]),
+    "Weekday", FORMAT([Date], "dddd"),
+    "Weekday Number", WEEKDAY([Date]),
+    "Year-Month", FORMAT([Date], "YYYY-MM"),
+    "Year-Quarter", FORMAT([Date], "YYYY") & "-Q" & QUARTER([Date])
+)
