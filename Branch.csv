@@ -1,0 +1,41 @@
+﻿BranchID,BranchName,StreetAddress,City,Province
+BR001,MetroDrive Pasig,"Unit 101, 34 Meralco Avenue, Ortigas Center",Pasig City,Metro Manila
+BR002,MetroDrive Quezon Avenue,"1289 Quezon Avenue, South Triangle",Quezon City,Metro Manila
+BR003,MetroDrive BGC,"7th Avenue corner 30th Street, Bonifacio Global City",Taguig City,Metro Manila
+BR004,MetroDrive Makati,"842 Chino Roces Avenue, San Antonio",Makati City,Metro Manila
+BR005,MetroDrive Alabang,"Commerce Avenue, Filinvest Corporate City",Muntinlupa City,Metro Manila
+BR006,MetroDrive Manila Bay,"Diosdado Macapagal Boulevard, Bay City",Pasay City,Metro Manila
+BR007,MetroDrive Marikina,"75 Gil Fernando Avenue, Sto. Niño",Marikina City,Metro Manila
+BR008,MetroDrive Las Piñas,"Alabang-Zapote Road, Talon Uno",Las Piñas City,Metro Manila
+BR009,MetroDrive Caloocan,"A. Mabini Street, Grace Park",Caloocan City,Metro Manila
+BR010,MetroDrive Valenzuela,"MacArthur Highway, Karuhatan",Valenzuela City,Metro Manila
+BR011,MetroDrive Antipolo,"Marcos Highway, Mayamot",Antipolo City,Rizal
+BR012,MetroDrive Cainta,"Ortigas Avenue Extension, San Isidro",Cainta,Rizal
+BR013,MetroDrive San Mateo,"Gen. Luna Avenue, Guitnang Bayan I",San Mateo,Rizal
+BR014,MetroDrive Bacoor,"Aguinaldo Highway, Molino Boulevard",Bacoor City,Cavite
+BR015,MetroDrive Dasmariñas,"Governor's Drive, Sampaloc IV",Dasmariñas City,Cavite
+BR016,MetroDrive Imus,"Nueno Avenue, Tanzang Luma",Imus City,Cavite
+BR017,MetroDrive Tagaytay,"Tagaytay-Calamba Road, San Jose",Tagaytay City,Cavite
+BR018,MetroDrive Santa Rosa,"Santa Rosa-Tagaytay Road, Balibago",Santa Rosa City,Laguna
+BR019,MetroDrive Calamba,"National Highway, Real",Calamba City,Laguna
+BR020,MetroDrive San Pablo,"Maharlika Highway, San Rafael",San Pablo City,Laguna
+BR021,MetroDrive Lipa,"President Jose P. Laurel Highway, Sabang",Lipa City,Batangas
+BR022,MetroDrive Batangas City,"Diversion Road, Alangilan",Batangas City,Batangas
+BR023,MetroDrive Lucena,"Quezon Avenue, Ibabang Dupay",Lucena City,Quezon
+BR024,MetroDrive San Fernando Pampanga,"Jose Abad Santos Avenue, Dolores",San Fernando City,Pampanga
+BR025,MetroDrive Angeles,"MacArthur Highway, Balibago",Angeles City,Pampanga
+BR026,MetroDrive Malolos,"McArthur Highway, Longos",Malolos City,Bulacan
+BR027,MetroDrive Meycauayan,"MacArthur Highway, Calvario",Meycauayan City,Bulacan
+BR028,MetroDrive Cabanatuan,"Maharlika Highway, H. Concepcion",Cabanatuan City,Nueva Ecija
+BR029,MetroDrive Tarlac,"MacArthur Highway, San Sebastian",Tarlac City,Tarlac
+BR030,MetroDrive Urdaneta,"MacArthur Highway, Nancayasan",Urdaneta City,Pangasinan
+BR031,MetroDrive Baguio,"Marcos Highway, Bakakeng Central",Baguio City,Benguet
+BR032,MetroDrive Laoag,"Gen. Segundo Avenue, Barangay 1",Laoag City,Ilocos Norte
+BR033,MetroDrive Cebu City,"A.S. Fortuna Street, Banilad",Cebu City,Cebu
+BR034,MetroDrive Mandaue,"Ouano Avenue, Subangdaku",Mandaue City,Cebu
+BR035,MetroDrive Iloilo,"Diversion Road, Mandurriao",Iloilo City,Iloilo
+BR036,MetroDrive Bacolod,"Lacson Street, Mandalagan",Bacolod City,Negros Occidental
+BR037,MetroDrive Cagayan de Oro,"Claro M. Recto Avenue, Lapasan",Cagayan de Oro City,Misamis Oriental
+BR038,MetroDrive Davao,"J.P. Laurel Avenue, Bajada",Davao City,Davao del Sur
+BR039,MetroDrive General Santos,"Jose Catolico Sr. Avenue, Lagao",General Santos City,South Cotabato
+BR040,MetroDrive Zamboanga,"Gov. Camins Avenue, Canelar",Zamboanga City,Zamboanga del Sur
